@@ -1,3 +1,5 @@
+
+// AJAX XMLHttpRequest Object (XHR)
 let xhr = new XMLHttpRequest;
 
 xhr.open('GET', 'https://api.github.com/users', true)
